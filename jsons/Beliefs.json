@@ -1,7 +1,7 @@
 [
   {
     "name": "Reciprocity",
-    "type": "Enhancer",
+    "type": "Founder",
     "effects": ["[+1 Gold] from every [1 follower] [in all cities]"]
   }
 ]
