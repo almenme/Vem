@@ -2,6 +2,6 @@
   {
     "name": "Reciprocity",
     "type": "Enhancer",
-    "effects": ["[+1 Gold] from each [follower]"]
+    "effects": ["[+1 Gold] from every [1 follower] [in all cities]"]
   }
 ]
