@@ -2,6 +2,6 @@
   {
     "name": "Reciprocity",
     "type": "Founder",
-    "uniques": ["[+1 Gold] from every [1 follower] [in all cities]"]
+    "uniques": ["[1 Gold] from every [1] follower [in all cities]"]
   }
 ]
